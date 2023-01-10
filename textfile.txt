@@ -7,5 +7,8 @@ This is my text file uploaded from Desktop
 2 New line is added here from CLI with vim editor
 
 3 New Line is added here with GitHub GUI
+
+4 New Line is added here with git CLI
+
 Thanks & regards,
 Deepak
