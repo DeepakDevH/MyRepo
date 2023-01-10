@@ -2,7 +2,9 @@ Hi All,
 
 This is my text file uploaded from Desktop
 
-1 New line is added here
+1 New line is added here from githug UI
+
+2 New line is added here from CLI with vim editor
 
 Thanks & regards,
 Deepak
