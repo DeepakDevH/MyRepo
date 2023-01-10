@@ -6,5 +6,6 @@ This is my text file uploaded from Desktop
 
 2 New line is added here from CLI with vim editor
 
+3 New Line is added here with GitHub GUI
 Thanks & regards,
 Deepak
