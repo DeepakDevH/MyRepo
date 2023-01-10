@@ -10,5 +10,7 @@ This is my text file uploaded from Desktop
 
 4 New Line is added here with git CLI
 
+5 New line is added here with GUI 
+
 Thanks & regards,
 Deepak
