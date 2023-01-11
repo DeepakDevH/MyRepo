@@ -16,7 +16,7 @@ This is my text file uploaded from Desktop
 
 7 New line is added here with git CLI
 
-8 New line is added here with got CLI
+8 New line is added here with git CLI
 
 Thanks & regards,
 Deepak
