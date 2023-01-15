@@ -1,6 +1,15 @@
-Hi All,
+#!/bin/bash
+#
+echo "Hi All,"
+echo
+echo "This is my first file to push git repo."
 
-This is my first file to push git repo.
+#Name=$a
+#Sub=$b
 
-Thanks & regards,
-Deepak
+read=$a
+read=$b
+
+echo "Hello my name is $a, and i like subject $b"
+
+
