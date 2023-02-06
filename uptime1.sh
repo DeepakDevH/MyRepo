@@ -1,4 +1,4 @@
 #!/bin/bash
 #
 a=`uptime`
-echo "Hello Deepak: my sys is up since $a"
+echo "Hello DeepakRH: my sys is up since $a"
