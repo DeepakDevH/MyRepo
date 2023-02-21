@@ -8,6 +8,7 @@ This is my first file for test push to git hub repo.
 4 New line is added here
 5 New line is added here with GUI
 6 New line is added here with CLI
+7 New line is added here with CLI
 
 Thanks & regards,
 Deepak
