@@ -4,6 +4,7 @@ This is my first file for test push to git hub repo.
 
 1 New line is added here
 2 New line is added here with CLI
+3 New line is added here with GitHub
 
 Thanks & regards,
 Deepak
