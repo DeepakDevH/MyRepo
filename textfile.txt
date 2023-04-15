@@ -8,6 +8,7 @@ This is my text file uploaded from Desktop
 
 3 New Line is added here with GitHub GUI
 
+4 New line is added here with Git CLII
 
 Thanks & regards,
 Deepak
